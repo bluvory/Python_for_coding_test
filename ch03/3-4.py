@@ -19,13 +19,19 @@ if (n<k):
 
 print(res)
 
+
 # 책 답안
 while True:
+  # (n == k로 나누어떨어지는 수)가 될때까지 1빼기
   target = (n // k) * k
   res += (n - target)
+
+  # n이 k보다 작을 때 반복문 탈출
   n = target
   if n < k:
     break
+
+  # k로 나누기
   res += 1
   n //= k
 
