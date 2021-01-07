@@ -9,7 +9,7 @@
 [ch01] (https://github.com/bluvory/Python_for_coding_test/tree/main/ch01): 코딩테스트 개요
 
 ## PART02
-[ch03] (https://github.com/bluvory/Python_for_coding_test/tree/main/ch03): 그리디
+[ch03] (https://github.com/bluvory/Python_for_coding_test/tree/main/ch03, "ch03 link"): 그리디
 [ch04] (https://github.com/bluvory/Python_for_coding_test/tree/main/ch04): 구현
 [ch05] (https://github.com/bluvory/Python_for_coding_test/tree/main/ch05): DFS/BFS
 [ch06] (https://github.com/bluvory/Python_for_coding_test/tree/main/ch06): 정렬
