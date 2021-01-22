@@ -42,3 +42,10 @@
 [ch19](https://github.com/bluvory/Python_for_coding_test/tree/main/ch19): 2020년 상반기 삼성전자 기출문제
 
 ## PART04
+[appendixA](https://github.com/bluvory/Python_for_coding_test/tree/main/appendixA): 코딩 테스트를 위한 파이썬 문법
+
+[appendixB](https://github.com/bluvory/Python_for_coding_test/tree/main/appendixB): 기타 알고리즘
+
+[appendixC](https://github.com/bluvory/Python_for_coding_test/tree/main/appendixC): 개발형 코딩 테스트
+
+[appendixD](https://github.com/bluvory/Python_for_coding_test/tree/main/appendixD): 알고리즘 유형별 기출문제 
