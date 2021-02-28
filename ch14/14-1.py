@@ -1,5 +1,7 @@
 n = int(input())
-students = [] # 학생 정보를 담을 리스트
+
+# 학생 정보를 담을 리스트
+students = []
 
 # 모든 학생 정보를 입력 받기
 for _ in range(n):
